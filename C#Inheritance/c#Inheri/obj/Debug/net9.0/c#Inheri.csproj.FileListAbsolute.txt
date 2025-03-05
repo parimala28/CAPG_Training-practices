@@ -1,0 +1,15 @@
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\bin\Debug\net9.0\c#Inheri.exe
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\bin\Debug\net9.0\c#Inheri.deps.json
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\bin\Debug\net9.0\c#Inheri.runtimeconfig.json
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\bin\Debug\net9.0\c#Inheri.dll
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\bin\Debug\net9.0\c#Inheri.pdb
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.AssemblyInfoInputs.cache
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.AssemblyInfo.cs
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.csproj.CoreCompileInputs.cache
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.sourcelink.json
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.dll
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\refint\c#Inheri.dll
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.pdb
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\c#Inheri.genruntimeconfig.cache
+C:\Users\chpar\OneDrive\Desktop\CAPG TRAINING\C#Inheritance\c#Inheri\obj\Debug\net9.0\ref\c#Inheri.dll
